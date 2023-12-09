@@ -13,7 +13,9 @@ SimCLR GAN-> Training and accompanying scripts for running our method which expl
 
 The approach is explained in `report.pdf`.
 
-to run training scripts, run the following command:
+to run training scripts, run the following command after goining to respective method's directory:
 ```
 python run.py --gpu-index <CUDA device index>
 ```
+## References:
+Mentioned in `report.pdf`

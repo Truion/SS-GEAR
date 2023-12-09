@@ -11,7 +11,7 @@ SimCLR-> Training and accompanying scripts for running our method which exploits
 
 SimCLR GAN-> Training and accompanying scripts for running our method which exploits styleGAN for augmentations and train SimCLR network.
 
-The approach is explained in `report.pdf`
+The approach is explained in `report.pdf`.
 
 to run training scripts, run the following command:
 ```
